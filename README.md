@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajatsud
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning anythink
+- 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ajatsudrajat.s.kom@gmail.com
 
